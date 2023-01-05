@@ -1,0 +1,422 @@
+
+
+[
+  {
+    "id": "6dc11418-5902-4471-bd09-3124800a4402",
+    "copiedFromId": null,
+    "userId": 107326383,
+    "name": null,
+    "map": null,
+    "room": null,
+    "source": null,
+    "inProgress": true,
+    "roundNum": 6,
+    "turnNum": 1,
+    "notes": null,
+    "monsters": [
+      {
+        "groupId": "189734a9-0e2f-4cb6-a407-413191b75172",
+        "id": 17138,
+        "uniqueId": "74641710-986f-446f-86df-6114dff518d2",
+        "name": "Carrion Crawler (A)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 0,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 51,
+        "initiative": 12
+      },
+      {
+        "groupId": "36d7fcbd-7992-4960-8486-c5fb11b097bb",
+        "id": 17138,
+        "uniqueId": "107c0e12-1d34-4325-be2a-09286fa0d3d6",
+        "name": "Carrion Crawler (B)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 1,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 51,
+        "initiative": 6
+      },
+      {
+        "groupId": "7c74b731-7349-47a8-a32c-b635754f41f8",
+        "id": 17138,
+        "uniqueId": "0ca662c1-60e0-4075-b670-7a81981cc8c4",
+        "name": "Carrion Crawler (C)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 2,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 51,
+        "initiative": 8
+      }
+    ],
+    "groups": [
+      {
+        "id": "189734a9-0e2f-4cb6-a407-413191b75172",
+        "order": 1,
+        "name": null
+      },
+      {
+        "id": "36d7fcbd-7992-4960-8486-c5fb11b097bb",
+        "order": 2,
+        "name": null
+      },
+      {
+        "id": "7c74b731-7349-47a8-a32c-b635754f41f8",
+        "order": 3,
+        "name": null
+      }
+    ],
+    "players": [
+      {
+        "id": "57116131",
+        "count": 1,
+        "level": 5,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Half-Elf",
+        "gender": "female",
+        "name": "Nya Amati",
+        "userName": "Tyledres",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/21050/758/150/197/1581111423-57116131.jpeg",
+        "classByLine": "Bard / College of Creation",
+        "initiative": 14,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "60167160",
+        "count": 1,
+        "level": 5,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Gnome",
+        "gender": "Female",
+        "name": "Pollux",
+        "userName": "Liberty222",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/21050/536/150/150/1581111423-60167160.jpeg",
+        "classByLine": "Barbarian / Path of the Beast",
+        "initiative": 22,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "70740776",
+        "count": 1,
+        "level": 5,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Half-Ooze",
+        "gender": "Fem/Nonbinary",
+        "name": "Dellamoira \"Moira\"  Vaughn-Kallick",
+        "userName": "Casiopian",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/27163/676/150/150/1581111423-70740776.jpeg",
+        "classByLine": "Monk / Rogue / Way of Shadow",
+        "initiative": 24,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "71582204",
+        "count": 1,
+        "level": 5,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Gnome",
+        "gender": "Male",
+        "name": "Nigel Wingdo",
+        "userName": "Gnoogman",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/27250/114/172/150/1581111423-71582204.jpeg",
+        "classByLine": "Cleric / Arcana Domain",
+        "initiative": 9,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "78625581",
+        "count": 1,
+        "level": 5,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Dragonborn",
+        "gender": "Male",
+        "name": "Yorrakas",
+        "userName": "dnieman6",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/17/213/150/150/636377840974085948.jpeg",
+        "classByLine": "Paladin / Oath of Devotion",
+        "initiative": 15,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      }
+    ],
+    "manualEntries": [],
+    "difficulty": 2,
+    "dateCreated": 1662427751219,
+    "dateModified": 1663630459315,
+    "versionNumber": 45,
+    "status": 1,
+    "campaign": {
+      "id": 2361817,
+      "name": "Monday Rime"
+    },
+    "flavorText": null,
+    "description": null,
+    "rewards": null,
+    "compendiumLink": null
+  },
+  {
+    "id": "041c4012-fc9b-47f3-9eaa-11358626548a",
+    "copiedFromId": null,
+    "userId": 107326383,
+    "name": "Antechamber",
+    "map": null,
+    "room": null,
+    "source": null,
+    "inProgress": true,
+    "roundNum": 1,
+    "turnNum": 1,
+    "notes": null,
+    "monsters": [
+      {
+        "groupId": "c306ef02-e9ba-4a80-b973-5e26f1f27715",
+        "id": 16835,
+        "uniqueId": "984b3727-048a-46ce-bdc4-d02f5097af48",
+        "name": "Cultist (A)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 0,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 9,
+        "initiative": 2
+      },
+      {
+        "groupId": "1eeaf4f9-f989-43aa-b97c-d3351e1206a8",
+        "id": 16835,
+        "uniqueId": "94fe8b59-5686-443b-b882-8a5bd5429343",
+        "name": "Cultist (B)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 1,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 9,
+        "initiative": 6
+      },
+      {
+        "groupId": "24dfd7ca-7613-43ea-8ca3-5c68186efe5e",
+        "id": 16835,
+        "uniqueId": "a493c72a-7a2e-49c2-93eb-005a74854eb7",
+        "name": "Cultist (C)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 2,
+        "currentHitPoints": 9,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 9,
+        "initiative": 15
+      },
+      {
+        "groupId": "1e353765-86ff-41e9-bba2-411612ee744b",
+        "id": 16835,
+        "uniqueId": "aa540aac-9724-4a25-b52d-917cd9acb959",
+        "name": "Cultist (D)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 3,
+        "currentHitPoints": 9,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 9,
+        "initiative": 3
+      },
+      {
+        "groupId": "74128244-936f-4a8a-aa34-da10e8f3d4bc",
+        "id": 17157,
+        "uniqueId": "c9f658f2-7266-490e-af55-c2834ba3a307",
+        "name": "Grell (A)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 0,
+        "currentHitPoints": 55,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 55,
+        "initiative": 17
+      },
+      {
+        "groupId": "6fb6002c-7f33-4a0c-a0b9-9152801a75fd",
+        "id": 17157,
+        "uniqueId": "a031481e-48c9-4447-9a99-ad2099b9859c",
+        "name": "Grell (B)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 1,
+        "currentHitPoints": 47,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 55,
+        "initiative": 17
+      },
+      {
+        "groupId": "d38bc131-5505-49b6-98db-d642aa84e82b",
+        "id": 17157,
+        "uniqueId": "0b079c0d-8650-4e7b-a15c-4be48b229788",
+        "name": "Grell (C)",
+        "order": 1,
+        "quantity": 1,
+        "notes": null,
+        "index": 2,
+        "currentHitPoints": 55,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 55,
+        "initiative": 14
+      }
+    ],
+    "groups": [
+      {
+        "id": "c306ef02-e9ba-4a80-b973-5e26f1f27715",
+        "order": 1,
+        "name": null
+      },
+      {
+        "id": "1eeaf4f9-f989-43aa-b97c-d3351e1206a8",
+        "order": 2,
+        "name": null
+      },
+      {
+        "id": "24dfd7ca-7613-43ea-8ca3-5c68186efe5e",
+        "order": 3,
+        "name": null
+      },
+      {
+        "id": "1e353765-86ff-41e9-bba2-411612ee744b",
+        "order": 4,
+        "name": null
+      },
+      {
+        "id": "74128244-936f-4a8a-aa34-da10e8f3d4bc",
+        "order": 5,
+        "name": null
+      },
+      {
+        "id": "6fb6002c-7f33-4a0c-a0b9-9152801a75fd",
+        "order": 6,
+        "name": null
+      },
+      {
+        "id": "d38bc131-5505-49b6-98db-d642aa84e82b",
+        "order": 7,
+        "name": null
+      }
+    ],
+    "players": [
+      {
+        "id": "70727260",
+        "count": 1,
+        "level": 7,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Gnome",
+        "gender": "Male",
+        "name": "Norgel Wingdo",
+        "userName": "Gnoogman",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/17/988/150/150/636378944641601219.jpeg",
+        "classByLine": "Wizard / School of Abjuration",
+        "initiative": 5,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "71344882",
+        "count": 1,
+        "level": 7,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Human",
+        "gender": "female",
+        "name": "Autumn Fireheart",
+        "userName": "Tyledres",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/24917/372/150/187/1581111423-71344882.jpeg",
+        "classByLine": "Druid / Circle of Wildfire",
+        "initiative": 11,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "71458992",
+        "count": 1,
+        "level": 7,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Tabaxi",
+        "gender": "Female",
+        "name": "Caisys",
+        "userName": "Liberty222",
+        "isReady": true,
+        "avatarUrl": "https://www.dndbeyond.com/avatars/thumbnails/25058/440/150/188/1581111423-71458992.jpeg",
+        "classByLine": "Ranger / Fighter / Gloom Stalker",
+        "initiative": 26,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      },
+      {
+        "id": "71459937",
+        "count": 1,
+        "level": 7,
+        "type": "CHARACTER_TYPE_DDB",
+        "hidden": false,
+        "race": "Genasi",
+        "gender": null,
+        "name": "Harlynn (Arlee) Eveliegh",
+        "userName": "Casiopian",
+        "isReady": true,
+        "avatarUrl": null,
+        "classByLine": "Paladin / Warlock / Oath of Redemption / The Genie",
+        "initiative": 15,
+        "currentHitPoints": 0,
+        "temporaryHitPoints": 0,
+        "maximumHitPoints": 0
+      }
+    ],
+    "manualEntries": [],
+    "difficulty": 3,
+    "dateCreated": 1655165676779,
+    "dateModified": 1655166707821,
+    "versionNumber": 11,
+    "status": 1,
+    "campaign": {
+      "id": 2836499,
+      "name": "Interlude of Indecision"
+    },
+    "flavorText": null,
+    "description": null,
+    "rewards": null,
+    "compendiumLink": null
+  }
+]
